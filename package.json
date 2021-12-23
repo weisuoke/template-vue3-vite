@@ -1,0 +1,29 @@
+{
+  "name": "template-vue3-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisuoke/template-vue3-vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisuoke/template-vue3-vite/issues"
+  },
+  "homepage": "https://github.com/weisuoke/template-vue3-vite#readme",
+  "dependencies": {
+    "vue": "^3.2.26"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.1",
+    "vite": "^2.7.6"
+  }
+}
